@@ -1,6 +1,6 @@
 # P1-Segunda
 
-- para instalar as depencias
+- para instalar as dependencias
 ```
 npm install
 ```
